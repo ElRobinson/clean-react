@@ -8,6 +8,9 @@
     ],
     "rootDir": "src",
     "baseUrl": "src",
+    "path": {
+      "@/*": ["*"]
+    },
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
